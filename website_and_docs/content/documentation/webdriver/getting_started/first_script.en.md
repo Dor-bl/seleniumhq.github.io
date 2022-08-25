@@ -76,7 +76,7 @@ can request, including window handles, browser size / position, cookies, alerts,
         {{< gh-codeblock path="examples/python/tests/getting_started/test_first_script.py#L12" >}}
     {{< /tab >}}
     {{< tab header="CSharp" >}}
-        {{< gh-codeblock path="examples/dotnet/SeleniumDocs/GettingStarted/FirstScriptTest.cs#L35" >}}
+        {{< gh-codeblock path="examples/dotnet/SeleniumDocs/GettingStarted/FirstScriptTest.cs#L34-35" >}}
     {{< /tab >}}
     {{< tab header="Ruby" >}}
         {{< gh-codeblock path="examples/ruby/spec/getting_started/first_script_spec.rb#L11" >}}
